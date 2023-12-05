@@ -1,0 +1,19 @@
+
+
+
+.contenitoreForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px;
+    border: 2px solid orange;
+    box-shadow: 1px 2px 3px rgba(255, 0, 0, 0.5);
+    width: 75%;
+    height: 75%;
+    background-color: beige;
+    flex-wrap: wrap;
+}
+.contenitoreInterno{
+    padding: 25px;
+}
+
